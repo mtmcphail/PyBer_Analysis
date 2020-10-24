@@ -80,4 +80,4 @@ Therefore, it is also our **recommendation** to:
 
 4. Establish and enforce onboarding or recruiting policies that prevent overhiring of drivers. 
 
-Our final recommendation can be given to most CEOs, the more data collecting, wrangling, and analyzing, the better prepared company leaders are to strategically drive growth and improvement. 
+Our **final recommendation** can be given to most CEOs, the more data collecting, wrangling, and analyzing, the better prepared company leaders are to strategically drive growth and improvement. 
