@@ -1,4 +1,4 @@
-![PyBer](./Resources/Pyber_logo2.png)
+![PyBer](./Resources/Pyber_Logo2.png)
 
 # PyBer Rideship by City Type Analysis
 
